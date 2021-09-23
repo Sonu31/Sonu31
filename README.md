@@ -9,13 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/@sonuku21762391" target="blank"><img src="https://img.shields.io/twitter/follow/@sonuku21762391?logo=twitter&style=for-the-badge" alt="@sonuku21762391" /></a> </p>
 
+🖌️  my website **[codehelp](https://codedhelp.blogspot.com/)**
+
 - 🔭 I’m currently working on **Android**
 
 - 🌱 I’m currently learning **everthing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  🖌️  my website **[codehelp](https://codedhelp.blogspot.com/)**
+  
 <a href="https://twitter.com/@sonuku21762391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sonuku21762391" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sonu kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonu kumar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sonu31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sonu31" height="30" width="40" /></a>
